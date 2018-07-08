@@ -11,7 +11,7 @@ header {
     display: block; } }
 
 .splashIntro {
-  background: url("../images/bg.jpg") black no-repeat;
+  background: url("../../images/bg.jpg") black no-repeat;
   background-size: contain;
   color: white; }
   .splashIntro img {
